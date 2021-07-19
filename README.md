@@ -11,7 +11,7 @@
       <img align ="left" alt='AkshatOP's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
                                                                                                                                               </a>
                                                                                                                       </br>    
- </br><img src="https://discord.c99.nl/widget/theme-3/728590937441304586.png" alt="discord" />
+ </br><img src="https://discord.c99.nl/widget/theme-2/503928755341885450.png" alt="discord" />
                                                                                                                                    </br>
   Hey, I'm AK a Developer from India. <br>
   
